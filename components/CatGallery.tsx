@@ -1,6 +1,6 @@
 // CatGallery.tsx
 import React from 'react';
-import { View, FlatList, Image } from 'react-native';
+import { FlatList, Image } from 'react-native';
 
 type Cat = {
   url: string;

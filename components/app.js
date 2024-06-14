@@ -1,5 +1,5 @@
-import React from 'eact';
-import { View } from 'eact-native';
+import React from 'react';
+import { View } from 'react-native';
 import CatGallery from './components/CatGallery';
 
 const App = () => {
